@@ -7,9 +7,8 @@ my family.
 
 I inherited a bible that once belonged to my great great grandfather,
 Robert Walker Carley. He received it from the Church Education Society
-for Ireland, as shown inside the front cover:
-
-  ![CarleyPresentation](./CarleyPresentation.pdf)
+for Ireland, as indicated by the [sticker](./CarleyPresentation.pdf)
+inside the front cover.
 
 Folded up inside the bible were several letters:
 
