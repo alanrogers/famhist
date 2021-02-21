@@ -3,7 +3,15 @@
 This website provides access to documents relating to the history of
 my family.
 
-## Letters from the bible of Robert Walker Carley
+## The bible of Robert Walker Carley
+
+I inherited a bible that once belonged to my great great grandfather,
+Robert Walker Carley. He received it from the Church Education Society
+for Ireland, as shown inside the front cover:
+
+  ![CarleyPresentation](./CarleyPresentation.pdf)
+
+Folded up inside the bible were several letters:
 
 * [Letter from Robert Carley](RobtCarley.pdf) Robert Carley wrote this
   letter to his daughter, Margaret Alice, on her 8th birthday,
